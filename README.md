@@ -1,2 +1,2 @@
 # dearpygui-minecraft-compass
-Just the minecraft compass in a dearpygui interface
+Just a functional minecraft compass as an element of the dearpygui interface
