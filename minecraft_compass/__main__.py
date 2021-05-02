@@ -4,7 +4,7 @@ from dearpygui.simple import *
 from dearpygui.demo import show_demo
 
 """
-by @Hg & @Pdxr
+by @Hg & @Prdxr
 """
 
 h = 256
